@@ -1,0 +1,1329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The description and use of an ordinary joynt-rule fitted with lines for the ready finding the lengths and angles of rafters and hips, and collar-beams in any square or bevilling roofes at any pitch, and the ready drawing the architrave, freize and cornice in any order. With other useful conclusions by the said rule. By John Browne.</title>
+            <author>Browne, John, 1642-ca. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29757</idno>
+            <idno type="STC">Wing B5039</idno>
+            <idno type="STC">ESTC R216684</idno>
+            <idno type="EEBO-CITATION">99828406</idno>
+            <idno type="PROQUEST">99828406</idno>
+            <idno type="VID">32833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1963:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The description and use of an ordinary joynt-rule fitted with lines for the ready finding the lengths and angles of rafters and hips, and collar-beams in any square or bevilling roofes at any pitch, and the ready drawing the architrave, freize and cornice in any order. With other useful conclusions by the said rule. By John Browne.</title>
+                  <author>Browne, John, 1642-ca. 1700.</author>
+               </titleStmt>
+               <extent>[2], 29, [1] p., 4 leaves of plates   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Fisher at the Postern Gate near Tower-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mathematical instruments --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32833:1"/>
+            <pb facs="tcp:32833:1"/>
+            <p>THE Deſcription and Uſe Of an Ordinary JOYNT-RULE Fitted with LINES For the ready finding The Lengths and Angles of Rafters and Hips, and Collar-Beams in any Square or Bevilling Roofes at any Pitch, and the Ready Drawing the Architrave, Freize and Cornice in any Order.</p>
+            <p>
+               <hi>WITH</hi> Other Uſeful Concluſions by the ſaid Rule.</p>
+            <p>By <hi>John Browne.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Fiſher</hi> at the Poſtern Gate near <hi>Tower-Hill.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:32833:2"/>
+            <pb facs="tcp:32833:2"/>
+            <head>The Deſcription and Uſe of a Joynt-Rule fitted with Lines for the ready finding the Lengths and Angles of Rafters, Hips, and Collar Beams in any Square or Bevel<g ref="char:EOLhyphen"/>ling Roofs at any Pitch.</head>
+            <figure>
+               <pb facs="tcp:32833:3"/>
+            </figure>
+            <p>
+               <pb facs="tcp:32833:2"/>FIrſt, The Rule is an ordinary Joynted Rule of a foot long when ſhut together, or two foot being opened to a ſtreight Line. And the Lines delineated thereon for this purpoſe, are</p>
+            <p n="1">1. Firſt, a Line of Lines, drawn Sector-wiſe from a center on both legs of the Rule, but continued to 30 at the end in ſtead of 10 the old uſual manner, and every fingle Integer of the 30 is divided into 12 parts, to repreſent every particular inch of the 30 foot according to the common reckoning by feet and inches.</p>
+            <p n="2">2. There is another Scale of equal parts alſo, of the ſame length lying as neer to the other of 30 as may be, on one leg only, which is divided into 40 parts, to repreſent 40 feet: and each of thoſe 40 feet, parted into 6 parts to repreſent eve<g ref="char:EOLhyphen"/>ry two inches only, becauſe the room for one foot, will not admit of more parts.</p>
+            <p n="3">3. In the ſame place on the other leg is divided a Line of natural Sines and Tangents to 45, but numbred as a Line of Chords to 180 Degrees, to ſet the Rule to, or to find the quan<g ref="char:EOLhyphen"/>tity of any Angle, in the proper terms of expreſſion (all the world over) degrees and minutes.</p>
+            <p n="4">4, On the innermoſt Line of the 30 Scale that runs to the Center is ſet 20 pricks, beginning at 2 at the Center-pin at 30, and ſo proceeding with 3, 4, 5, and 6 at the Center-pin at 15, and then 7, 8, 9, 10, and ſo forwards to 20, towards
+<pb facs="tcp:32833:4"/>
+the Center, which ſerves to divide a Circle into any number of parts, very uſeful and ready in the practice of Drawing or Architecture.</p>
+            <p>Thus much for Deſcription, the Uſes follow.</p>
+            <p>The uſes of this Line of Lines, or Scale of equal Parts to 30, drawn from the Center is of a general and manifold uſe: as Mr. <hi>Gunter</hi> in his Book of the <hi>Sector</hi> hath ſhewed.</p>
+            <p>A brief touch whereof take in the firſt place, as by the way, and then the uſe of the Rule to the buſineſs intended.</p>
+            <p>And for the better doing hereof, it is needful to explain three or four terms, for the avoiding of many words, and need<g ref="char:EOLhyphen"/>leſs repetitions in this brief, yet plain Diſcourſe.</p>
+            <p n="1">1. Firſt by the word Lateral is meant any diſtance taken, either in feet and inches, on the 30 Scale; or degrees and minutes on the Chords, taken and counted from the Center, in the midſt of the head of the Joynt-Rule, a long any one leg: as thus; Suppoſe I would take out 15 foot Laterally, ſet on point of the Compaſſes in the Center at the head, and open the other to 15 on any one Leg on the 30 Scale; this extent I call a Lateral Extent of 15 foot. Alſo if you takethe La<g ref="char:EOLhyphen"/>teral Chord of 60 Degrees you ſhall find the extent of the Compaſſes from the Center to 60 to be the ſame as from the Center to 15 foot, on the 30 Scale of Feet and Inches.</p>
+            <p n="2">2. By the word Parallel, I mean any diſtance taken, by ſetting one point of the Compaſſes in any number of feet and inches on one Leg, and the other point in the ſame, or any other number on the other Leg, acroſs from one Leg to the other; as thus the Rule being opened then the extent of the Compaſſes from 20 on one Leg, to 20 on the other Leg, is a Parallel extent.</p>
+            <p n="3">3. In all Parallel Extents, you muſt ſet one point of the Compaſſes in the Common Line on one Leg, to the Common Line on the other Leg, which Common Line is that only of the 30 Scale which runs to the Center, in which the Center-pins at 15 and 30 are.</p>
+            <p n="4">4. The neereſt diſtance from a point to a Line is only thus: Set one point of the Compaſſes in the point given, and open or ſhut the other being turned about, till the other will but juſt touch or cleave the Line, that I call the neereſt di<g ref="char:EOLhyphen"/>ſtance.</p>
+            <div n="1" type="application">
+               <pb n="3" facs="tcp:32833:4"/>
+               <head>Uſe I.</head>
+               <head>To lay down a line, that ſhall repreſent any Number of Feet and Inches given or required.</head>
+               <p>Take the Number given laterally from the 30, or 40 Scale from the Center, and that is the Line required.</p>
+               <p>But if theſe Scales are too great, or too ſmall, then take your Number of parts and the length thereof Laterally.</p>
+               <p>As for Example ſuppoſe I would have 3 Inches to repre<g ref="char:EOLhyphen"/>ſent 30 Foot, take out 3 Inches between your Compaſſes, and make it a parallel in 30 and 30, and the 30 Scale is ſet to your deſire.</p>
+            </div>
+            <div n="2" type="application">
+               <head>Uſe II.</head>
+               <head>To Increaſe or Diminiſh a Line to any Proportion.</head>
+               <p>Take the given Line between your Compaſſes, and make it a parallel in the parts thereof; then the parallel extent of the parts you would have it Increaſed, or Diminiſhed to, is the Augmentation, or Diminution, which was required.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>Let 3 Inches repreſent 8 foot, and to the ſame proportion I would have 10 Foot, or 5 foot, <hi>viz.</hi> more, or leſs.</p>
+               <p>Take 3 Inches between your Compaſſes, and make it a parallel in 8, and 8 on the 30 Scale; then the parallel diſtance between 5 and 5, doth diminiſh the Line, and the parallel between 10 &amp; 10 doth Increaſe the Line to the proportion required.</p>
+            </div>
+            <div n="3" type="application">
+               <head>Uſe III.</head>
+               <head>
+                  <hi>To divide a Line into any Number of parts or models under</hi> 30.</head>
+               <p>Take the given Line, and make it a parallel in the parts on the 30 Scale into which you would have it divided, then the parallel extent between 1 and 1 ſhall divide the Line accordingly, <hi>Example.</hi>
+               </p>
+               <p>Let 4 Inches be a Line to be divided into 9 parts, take 4 Inches (or any diſtance whatſoever) and make it a pa<g ref="char:EOLhyphen"/>rallel
+<pb facs="tcp:32833:5"/>
+in 9 and 9 on the 30 Scale; then the parallel di<g ref="char:EOLhyphen"/>ſtance between 1 and 1 ſhall divide 4 Inches into 9 parts required: Note, that for more exactneſs and conveniency, you may Double 9, or Triple 9, <hi>viz.</hi> 18, or 27. and then if you make the Line to be divided, a parallel in Triple the Number you muſt take out 3 in ſtead of one, and that ſhall divide the Line into the parts required.</p>
+               <p>
+                  <hi>Example,</hi> I would have 5 Inches put into 10 parts, take 5 Inches between your compaſſes and make it a parallel in 30 and 30 the Triple of 10, then take out parallel 3, and 3 the triple of one: and that ſhall divide the Line given be<g ref="char:EOLhyphen"/>ing 5 Inches into 10 parts or models exactly: the like for any other. And note as the Rule ſtands you may take out any number of parts or models whatſoever, to that Scale.</p>
+            </div>
+            <div n="4" type="application">
+               <head>Uſe IV.</head>
+               <head>Any two Lines given, to find their Proportion one to another according to any other Number.</head>
+               <p>That the Lines ſeverally, and lay them Laterally from the Center, on the 30 or the 40 Scale, which you pleaſe; and the Numbers of Feet and Inches, to which they reach, ſhall ſhew their proportion one to another of the parts of the Line on which they are meaſured.</p>
+               <p>
+                  <hi>Example,</hi> I have 2 Lines ſuppoſe one is 2 Inches long, and the other 5 or any other unknown part.</p>
+               <p>Take 2 Inches the meaſure of one Line, and meaſure it Laterally on the 30 Scale, and it gives 5 Foot ½ an Inch, then take out 5 Inches the ſuppoſed length of the other Line, and it gives Laterally 12 Foot 8 Inches; then I ſay one Line is 5 Foot and half an Inch, and the other is 12 Foot 8 Inches of a Scale of 30 Foot in 11 Inches 3 quar<g ref="char:EOLhyphen"/>ters length.</p>
+               <p>Or if you conclude on the Term or number of one Line, then make that Line a parallel in the parts thereof, then take the other Line, and carry it parallelly till it ſtay in like parts, on both Legs in the common Line, and that ſhall be the De<g ref="char:EOLhyphen"/>nomination of the other Line.</p>
+            </div>
+            <div n="5" type="application">
+               <pb facs="tcp:32833:5"/>
+               <head>Uſe V.</head>
+               <head>Two Lines being given to find a Third in continual Proportion to them.</head>
+               <p>Take both the Lines, and lay them laterally on both Legs, and note the feet and inches to which they do extend as in the laſt.</p>
+               <p>Then take out the lateral extent of the ſecond Line, and make a parallel in the terms of the firſt Line, keeping the common Line at that opening, then the parallel extent from the terms of the ſecond Line, ſhall be the lateral 3d Term or Line in Proportion. <hi>Example,</hi>
+               </p>
+               <p>Suppoſe I have one Line 3 foot long, and another 5 foot, and I would have another to bear proportion to 5, as 3 doth to 5 increaſing, being in numbers thus; as 3 is to 5, ſo is 5 to what? Here note that 3 is the firſt number, and 5 the ſecond.</p>
+               <p n="3">3. The firſt Line laid from the Center, on the 30 Scale, ex<g ref="char:EOLhyphen"/>tends to 7 foot 7 inches, and 5 inches, the ſecond Line gives 12 foot 8 inches.</p>
+               <p>Now the lateral ſecond Line, <hi>viz.</hi> 5. or 12 foot 8 inches, made a parallel in 7 foot 7 inches the terms of the firſt Line, then take out the parallel extent from 12 foot 8 inches (the meaſure of 5) and it ſhall give 21 foot 1 inch laid laterally from the Center, for a third Proportional required; which, meaſured on the inches, is 8 inches and a third, the anſwer re<g ref="char:EOLhyphen"/>quired; for as 3 is in proportion to 5, ſo is 5 to 8 and a third part.</p>
+               <p>But by the Line of Numbers, having the Quantity of the Lines given in Numbers, do thus;</p>
+               <p>The Extent of the Compaſſes from the firſt Number 3, to the ſecond Number 5, ſhall reach the ſame way from the ſecond Number 5, to 8. 33 the third Proportional Number required.</p>
+            </div>
+            <div n="6" type="application">
+               <head>Uſe VI.</head>
+               <head>To divide a Line in ſuch ſort as another Line is divided.</head>
+               <p>Take the whole Line that is divided, and lay it laterally yon both Legs, and fit the Line that is to be divided parallelly in the ends thereof, then lay every part of the divided Line late<g ref="char:EOLhyphen"/>rally
+<pb n="6" facs="tcp:32833:6"/>
+in like manner, as the whole Line was laid, and the parallel extent between thoſe parts ſhall divide the Line ac<g ref="char:EOLhyphen"/>cordingly: as for Example;</p>
+               <p>Suppoſe I would divide a Line of 8 inches ¾ long in ſuch ſort as the Line of Circles on the inſide of the 30 Scale is di<g ref="char:EOLhyphen"/>vided.</p>
+               <p>Take out 8 inches ¾, and make it a parallel in 2 and 2, the divided Line, then take out the parallel diſtance from 3 and 3, and that ſhall give the Point 3 from the end of the Line you would divide, and ſo conſequently all the reſt in order. As far as you pleaſe.</p>
+            </div>
+            <div n="7" type="application">
+               <head>Uſe VII.</head>
+               <head>To find a Mean Proportional between two Lines or Numbers.</head>
+               <p>Open the 30 Scale to a right Angle, by making Lateral 21 foot 2 inches a parallel in 15 foot.</p>
+               <p>Then find the Sum and half Sum, the Difference and half Difference, between your two Numbers; and having the half Sum between your Compaſſes, ſet one Point to the half Dif<g ref="char:EOLhyphen"/>ference counted laterally on one Leg; and whereſoever the other Point ſhall touch the Common Line on the other Leg, is the mean Proportional required. <hi>Example.</hi>
+               </p>
+               <p>Suppoſe a piece of Timber be 10 inches one way, and 18 inches another, what is the Square equal, which is the Mean Proportional between them? the ſum of 10 and 18 is 28, the half ſum is 14, the difference between 10 and 18 is 8, the half difference is 4. Now the 30 Scale ſtanding Square, taking 14 the half Sum between your Compaſſes, and then fet one Point in 4 on one Leg; and turn the other Point of the Compaſſes toward the Common Line, and there it ſhall ſhew 13 5/12 near the Square equal required.</p>
+            </div>
+            <div n="8" type="application">
+               <head>Uſe VIII.</head>
+               <head>
+                  <hi>To work the Rule of Three by the Line of Lines to</hi> 30, <hi>or to</hi> 3 <hi>Num<g ref="char:EOLhyphen"/>bers given to find a fourth, in Geometrical Proportion Direct.</hi>
+               </head>
+               <p>Make the lateral ſecond, a parallel in the firſt, then the parallel third ſhall give the lateral fourth number required. <hi>Example;</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:32833:6"/>
+If one foot of Timber coſt 10 <hi>d.</hi> what ſhall 6 foot coſt? <hi>fa<g ref="char:EOLhyphen"/>cit</hi> 60 <hi>d.</hi>
+               </p>
+               <p>Make Lateral 10 a Parallel in 10 counted as 1, then the Parallel Extent between 6 and 6 ſhall reach to Lateral 60, the Anſwer required, (in pence).</p>
+               <p>Again, another <hi>Example:</hi>
+               </p>
+               <p>If 50 Foot, or a load of Timber coſt 44 <hi>s,</hi> what ſhall one Foot coſt?</p>
+               <p>Take the Lateral Extent from 22 the half of 44 <hi>s,</hi> and make it a Parallel in 25 the half of 50, then the Paral<g ref="char:EOLhyphen"/>lel diſtance between 2 and 2 counted as 4 foot ſhall give the Lateral Number of 3 <hi>s.</hi> 6 <hi>d.</hi> the price of 4 foot, whoſe fourth part is 10 <hi>d.</hi> ½ the price of one foot. Note this help is uſed, to avoid the neerneſs to the center where the work is in<g ref="char:EOLhyphen"/>convenient.</p>
+            </div>
+            <div n="9" type="application">
+               <head>Uſe IX.</head>
+               <head>
+                  <hi>To meaſure Flat Meaſure by the Scale of</hi> 30.</head>
+               <p>At any inches broad to find how much in length makes a foot.</p>
+               <p>Take Lateral 12, make it a Parallel in the breadth given, then take out Parallel 12 again, and it ſhall give the length of a foot required.</p>
+               <p>
+                  <hi>Example,</hi> At 9 Inches broad, as Lateral 12, to Parallel 9, ſo is parallel 12, to Lateral 16, the length required.</p>
+            </div>
+            <div n="10" type="application">
+               <head>Uſe X.</head>
+               <head>The breadth of a Board given in Inches, and the length in Feet, to find the Content in Feet and Inches required.</head>
+               <p>Take the Lateral length in feet, and make it a Parallel in 12, then the Lateral diſtance, between the Inches broad, ſhall give the Parallel Content.</p>
+               <p>
+                  <hi>Example,</hi> Of 15 foot 3 inches long, and 9 inches broad.</p>
+               <p>Take Lateral 15 foot 3 inches, and make it a Parallel in 12, then take out Parallel 9 and 9, and it ſhall give Lateral 11, foot and a half, the Content.</p>
+            </div>
+            <div n="11" type="application">
+               <pb n="8" facs="tcp:32833:7"/>
+               <head>Uſe XI.</head>
+               <head>
+                  <hi>To Meaſure Timber by the Line of Lines to</hi> 30.</head>
+               <p>At any Inches Square to find how much makes a Foot of Timber.</p>
+               <p>If the Piece be not Square, then by the 8th Uſe make it Square: Then thus;</p>
+               <p>Take the Lateral Side of the Square in Inches, make it a Parallel in 12, then take out the Parallel Side of the Square, and it ſhall give a Lateral 4th Number.</p>
+               <p>Then take out Lateral 12, and make it a parallel in the 4th number, and then take out Parallel 12 again, and it ſhall ſhew the anſwer in Inches laid Laterally from the Center.</p>
+               <p>
+                  <hi>Example,</hi> At 9 Inches Square what makes a Foot?</p>
+               <p>As lat. 9 to par. 12, ſo is par. 9 to lat. 6 ¾: Agair,</p>
+               <p>As lat. 12, to par. 4th <hi>viz.</hi> 6 ¾, ſo is par. 12, to 21 inches ¼ the length to make one foot required.</p>
+            </div>
+            <div n="12" type="application">
+               <head>Uſe XII.</head>
+               <head>The Inches Square, and Length given in Feet, to find the Content in Feet and Inches.</head>
+               <p>As the Lat. Side of the Square, to parallel 12 ſo is the par<g ref="char:EOLhyphen"/>length to a lat. 4th: Again,</p>
+               <p>As the la<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 4th to parallel 12, ſo is the par. ſide of the Square, to Lateral Content.</p>
+               <p>
+                  <hi>Example,</hi> at 9 Inches Square and 20 Foot long.</p>
+               <p>As lat. 9 to par. 12, ſo is par. 20 to lateral 15, a 4th num<g ref="char:EOLhyphen"/>ber: Again,</p>
+               <p>As lat. 15 the 4th, to par. 12: So is parallel 9, to lat. 11 ¼, the Content required.</p>
+               <p>Thus much for the General Uſe, being too long a Digreſ<g ref="char:EOLhyphen"/>ſion from the matter mainly intended.</p>
+            </div>
+            <div n="13" type="application">
+               <head>Uſe XIII.</head>
+               <head>The Bredth of any Frame being given, to find the Length of the Rafter and Perpendicular by Inſpection only.</head>
+               <p>It being a General received Rule, that the length of the Rafters ſhould be three quarters the bredth of the Houſe (or
+<pb n="9" facs="tcp:32833:7"/>
+frame) for true pitch, and 40 the feet in one Scale, be<g ref="char:EOLhyphen"/>ing equal in length to 30 the Number of feet in another Scale, and 30 being 3 quarters of 40. Therefore,</p>
+               <p>If you ſeek for the breadth of the houſe on the 40 Scale, then right againſt it, on the 30 Scale, is the length of the Rafter required. Alſo if you ſeek the length of the Rafter on the 40 Scale, on the 30 Scale, right againſt it, is the height of the perpendicular required, <hi>viz.</hi> from the Raiſing-piece to the top of the Gable end or Rafter required.</p>
+               <p>
+                  <hi>Example,</hi> If a houſe be 30 foot broad, the Rafter ought to be 22 foot 6 Inches, and the perpendicular 16 foot 9 Inches and a ½, for right againſt 30, counted on the 40 Scale, on the 30 Scale is 22 - 6 the Rafter, and right againſt 22 - 6 on the 40 Scale on the 30 is 16 - 9 ½ the perpendicular.</p>
+               <p n="1">1. Alſo by the Line of Numbers, the extent of the Compaſſes, from 20 to 15, will reach the ſame way from the breadth of any houſe to his proportionable Rafter at true pitch.</p>
+               <p n="2">2. And the extent, from 20 to 18, turned the ſame way from any breadth of a houſe to his proportionable Hip Raf<g ref="char:EOLhyphen"/>ter, in ſquare frames.</p>
+               <p n="3">3. Alſo the extent from 20 to 11 18/100 will reach the ſame way from the width of any houſe to his proportionable per<g ref="char:EOLhyphen"/>pendicular, at ſquare and true pitch.</p>
+               <p n="4">4. And the extent from 20 to 28 - 28, will reach from any other houſe breadth to his proportional whole Diagonal Line required, at ſquare and true pitch.</p>
+               <p n="5">5. And the extent from 20 the breadth to 16 - 63 the neereſt diſtance at that breadth, ſhall reach from any other breadth to his proportional neereſt diſtance re<g ref="char:EOLhyphen"/>quired, if it were needful. But the Angles in all Roofs great or ſmall, if true pitch and ſquare, are the ſame in all Frames.</p>
+            </div>
+            <div n="14" type="application">
+               <pb n="10" facs="tcp:32833:8"/>
+               <head>Uſe XIV.</head>
+               <head>The breadth of the houſe and the height of the Perpendicular being given to find the Rafters length, the Hips Length, the Dia<g ref="char:EOLhyphen"/>gonal Line, from Corner to the King-poſt, and any Angle required, in Square Frames. What the Perpendiculer height of the Gable end ought to be at true pitch by the laſt Rule you may readily ſee, and the better make eſtimate of the quantity of alteration. Which being once Reſolved on, then thus proceed,</head>
+               <p>Firſt open the two 30. Scales to a Right Angle by ma<g ref="char:EOLhyphen"/>king Lateral 21 Foot 2 Inches ½ a parallel in 15, &amp; 15 in the Braſs Center pins.</p>
+               <p n="1">1. Then count half the breadth of the houſe on one Leg, and the Length of the Perpendicular reſolved on, on the other leg, then the parallel diſtance between them, meaſured Laterally from the Center, ſhall give the true length of the Rafter required. <note place="margin">Rafter.</note>
+               </p>
+               <p n="2">2. For the Hips Length count the Length of the Rafter laſt found on one Leg, and the half breadth of the houſe on <note place="margin">Hips.</note> the other Leg, and take the parallel diſtance between, and meaſure it from the Center, Laterally, and it ſhall be the true Length of the Hips required.</p>
+               <p n="3">3. For the Diagonal Line, count the half breadth of the <note place="margin">Diagonal.</note> houſe on both Legs, and take the parallel diſtance between, and meaſure it from the Center, and it ſhall be the Length of the Diagonal Line, from the Corner to the King-Poſt.</p>
+               <p n="4">4. Again for the Hips count the Diagonal Line laſt found <note place="margin">Hips Length.</note> on one leg, and the perpendicular height on the other Leg, and the parallel diſtance between ſhall be the Hips true Length meaſured us before from the Center.</p>
+               <p>
+                  <hi>Example,</hi> in a houſe of 20 Foot wide at true pitch. See fig. 1. let A B C D repreſent a frame of a houſe 20 Foot wide, B I the half width, B A and C D equal to B C the whole width being 2 points to draw the Diagonal Lines by. I E being equal to I B, and the half E I laid from E to G gives I G the true length of the Rafters, and G B or G C the Length of the Hips.</p>
+               <p>Or thus, Three quarters of C B, <hi>viz.</hi> C H, gives C F and B F, the Rafters Length: the ſame extent alſo laid upon the mid<g ref="char:EOLhyphen"/>dle
+<pb n="11" facs="tcp:32833:8"/>
+Line from I to G, gives CG and BG the Hips Length. IF is the perpendicular height, E is the point of the Diago<g ref="char:EOLhyphen"/>nal Line or King-poſt, perpendicularly oppoſite to or right under the meeting point of the 2 Hips, and the two Rafters, when raiſed and ſet in their places.</p>
+               <p>Thus much for Illuſtration what to do, now for Application how to do.</p>
+               <p>The width of the houſe is always given, the Length of the Rafter; or the height of the perpendicular is next reſolved on, which in our Example being true pitch is alſo reſolved on, either by inſpection as before, or elſe by operation in this manner.</p>
+               <p n="1">1. The Breadth of the houſe being 20 Foot, and the per<g ref="char:EOLhyphen"/>pendicular reſolved on to be 11 Foot 2 Inches ½ To find the Rafters Length, work thus,</p>
+               <p>Open the 30 Scale to a Right Angle (by uſe the 7<hi rend="sup">th</hi>) count 10 the half breadth of the houſe on one Leg, and the <note place="margin">For the Raf<g ref="char:EOLhyphen"/>ters length.</note> perpendicular height 11 2 ½ on the other Leg. <hi>(viz.</hi> both on the 30 Scale from the Center) and take the parallel di<g ref="char:EOLhyphen"/>ſtance between them, (on the common Line) and meaſure it from the Center, and it ſhall give juſt 15 Foot the length of the Rafter required C F.</p>
+               <p n="2">2. But if according to the width of any frame, you reſolve on the Rafters length, and would have the perpendicular height of the Gable end, then thus,</p>
+               <p>Count the length of the Rafter from the Center, and take the lateral extent thereof (being 15) between your Com<g ref="char:EOLhyphen"/>paſſes, the Compaſſes being ſo ſet, ſet one point in 10 <note place="margin">For the Per<g ref="char:EOLhyphen"/>pendicular.</note> the half width of the frame, and turn the other point parallelly to the common Line, and there it ſhall ſhew 11 Foot 2 1/7 In<g ref="char:EOLhyphen"/>ches, the true height of the perpendicular at true pitch re<g ref="char:EOLhyphen"/>quired. I F 11 Foot 2 Inches 1/7.</p>
+               <p n="3">3. For the Length of the Hips, Count the half breadth of the houſe on one Leg, and the Rafters length on the other Leg, and take the parallel diſtance between, and it ſhall give the true length of the Hips required. As here, the parallel <note place="margin">For the Lips Length.</note> diſtance between 15 and 10, ſhall be lateral 18, the true length of the Hips required in a ſquare frame 20 foot wide true pitch. C G</p>
+               <p n="4">4. For the Diagonal line from the Corner to the King-poſt.</p>
+               <p>
+                  <pb n="12" facs="tcp:32833:9"/>
+Count the half width of the houſe, <hi>viz.</hi> 10 Foot on both <note place="margin">Half the Dia<g ref="char:EOLhyphen"/>gonal Line.</note> Legs, and take the parallel extent between, and it ſhall reach from the Center to 14 foot 1 Inch ⅝ being the line C E in the figure.</p>
+               <p n="5">5. Otherwiſe for the Hips length, Count the half Diago<g ref="char:EOLhyphen"/>nal on one Leg 14 1 ⅝ and the perpendicular 11 foot 2 In. <note place="margin">Hip.</note> Inches 2 2/7 on the other Leg, and the parallel diſtance be<g ref="char:EOLhyphen"/>tween, meaſured from the Center, will give the true Hips length 18, <hi>viz.</hi> the line C G.</p>
+               <p>Thus much for the Rafters and Hips in ſquare frames at true pitch, the meaſure of whoſe Angles and Lengths are as followeth,
+<table>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell cols="6">F. Inc. 100 parts F. 100 parts.</cell>
+                        <cell> </cell>
+                        <cell>deg.</cell>
+                        <cell>min.</cell>
+                     </row>
+                     <row>
+                        <cell rows="8">The breadth of the houſe being 20 f. and the two ends ſquare, and the Raf<g ref="char:EOLhyphen"/>ters at true pitch, the Lengths and angles of the frames, are</cell>
+                        <cell>C F</cell>
+                        <cell>Rafter</cell>
+                        <cell>15</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>15</cell>
+                        <cell>000</cell>
+                        <cell rows="2">Raf<g ref="char:EOLhyphen"/>ter</cell>
+                        <cell>Top</cell>
+                        <cell>41</cell>
+                        <cell>50</cell>
+                     </row>
+                     <row>
+                        <cell>C G</cell>
+                        <cell>Hip</cell>
+                        <cell>18</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>18</cell>
+                        <cell>000</cell>
+                        <cell>Foot</cell>
+                        <cell>48</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>I F</cell>
+                        <cell>Perpendicular</cell>
+                        <cell>11</cell>
+                        <cell>02</cell>
+                        <cell>17</cell>
+                        <cell>11</cell>
+                        <cell>180</cell>
+                        <cell rows="2">Hips</cell>
+                        <cell>Top</cell>
+                        <cell>51</cell>
+                        <cell>38</cell>
+                     </row>
+                     <row>
+                        <cell>B E</cell>
+                        <cell>½ Diagonal</cell>
+                        <cell>14</cell>
+                        <cell>01</cell>
+                        <cell>68</cell>
+                        <cell>14</cell>
+                        <cell>140</cell>
+                        <cell>Foot</cell>
+                        <cell>38</cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>B I</cell>
+                        <cell>Half Breadth</cell>
+                        <cell>10</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>10</cell>
+                        <cell>000</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>B C</cell>
+                        <cell>Whole Breadt.</cell>
+                        <cell>20</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>20</cell>
+                        <cell>000</cell>
+                        <cell rows="2">Difference</cell>
+                        <cell>13</cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>K G</cell>
+                        <cell>Neereſt D<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt.</cell>
+                        <cell>16</cell>
+                        <cell>07</cell>
+                        <cell>50</cell>
+                        <cell>16</cell>
+                        <cell>624</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>B D</cell>
+                        <cell>Whole Diag.</cell>
+                        <cell>28</cell>
+                        <cell>03</cell>
+                        <cell>36</cell>
+                        <cell>28</cell>
+                        <cell>281</cell>
+                        <cell>Outſid.</cell>
+                        <cell>Ang.</cell>
+                        <cell>116</cell>
+                        <cell>12</cell>
+                     </row>
+                  </table>
+               </p>
+               <div type="part">
+                  <head>The Rule to find the Angles of the Rafters and Hips.</head>
+                  <p n="1">1. For the Angles that the Rafters make at Foot, and Head, with the Raiſing-piece and King-poſt, do thus,</p>
+                  <p>When the Rule ſtands ſquare in the 30 Scale, then lay any ſtreight piece to the Compaſs points, when one ſtands in the half breadth, and the other point in the perpendicular; then if you apply a Bevel ſeverally, to that ſtreight edge, and the 30 Scale at each end, the one is the Angle at Foot 48 - 10, and the other the Angle at Head, <hi>viz.</hi> 41 - 50.</p>
+                  <p n="2">2. For the Angle at Head or King-poſt and foot of the Hips, do thus, the 30 Scale being ſet ſquare, ſet one point of the Compaſſes in the half Diagonal-line; on one 30 Scale, and the other point in the perpendicular on the other 30 Scale, and to thoſe points lay any ſtreight piece, then ſet a
+<pb facs="tcp:32833:9"/>
+Bevel to that Streight piece, and each 30 Scale, and the one ſhall be the Angle at Foot 38 - 22, and the other the Angle at the head, <hi>viz.</hi> 51 - 38; then this laſt Angle doub<g ref="char:EOLhyphen"/>led, and the difference between the Angle at Head, and Foot, <hi>viz.</hi> 13 - 16 added, makes 116 - 12 the Angle of the out-ſide of the Hip-rafter in a ſquare frame at true pitch required.</p>
+                  <p n="3">3. A General way to find this outward Angle of the Hip or mould is thus, in any pitch.</p>
+                  <p>Firſt, you muſt find the neereſt diſtance from one corner to the oppoſit Hip ſet up, or from a point in the raiſing piece, as far from one corner as the houſe end is broad, as the point K or L in the Figure may be done thus,</p>
+                  <p>Count the length of the Hip on one Leg, (and alſo take it between your Compaſſes) and count the breadth of the houſe on the other Leg, and ſet one point of the Compaſſes in the Hips length on one Leg, and the other point in the breadth of the houſe on the other Leg altering the 30 Scales, but not your Compaſſes; then when the 30 Scales are ſo ſet, one repreſents the Raiſing piece, and the other the Hip ſet up.</p>
+                  <p>Then the neereſt diſtance from the breadth of the houſe on one 30 Scale, to the Common-line on the other 30 Scale, is the neereſt diſtance required being meaſured from the Center, 16 - 7 - ½</p>
+                  <p>Then take the whole Diagonal Line, <hi>viz.</hi> C L, or B K from the Center Laterally, and make it a parallel, in the neer<g ref="char:EOLhyphen"/>eſt diſtance laſt found; and that ſhall ſet the 30 Scales to the Angle of the out-ſide of the Hip required, which you may meaſure in degrees thus: take parallel 15 as the Rule ſtands, and lay it from the Center, and it ſhall reach to 116 De<g ref="char:EOLhyphen"/>grees on the Chords, next one 30 Scale, the Angle of the out<g ref="char:EOLhyphen"/>ſide of the Hips required.</p>
+                  <p>
+                     <hi>Example and more briefly in a Houſe</hi> 20 <hi>Foot broad.</hi>
+                  </p>
+                  <p>The houſe end is 20 Foot broad the whole Diagonal Line is 28 foot 3 inches ⅜, the Hip Rafter 18 Foot.</p>
+                  <p>Take 18 Foot between your compaſſes, and ſet one point in 20, and open or ſhut the Rule till the other fits 18,
+<pb facs="tcp:32833:10"/>
+then the neereſt diſtance from 20 to the Common Line will be 16 foot 7 inches 4/8.</p>
+                  <p>Then take 28 foot 3 inches ⅝, the whole Diagonal Line, and make it a parallel in 16 foot 7 inches ½ the neereſt di<g ref="char:EOLhyphen"/>ſtance, and the 30 Scales are ſet to the Angles required: For,</p>
+                  <p>If you take out Parallel 15 the Chord of 60, and meaſure it Laterally from the Center, it ſhall reach to 116, the An<g ref="char:EOLhyphen"/>gle in Degrees and Minutes required.</p>
+                  <p>Note, If the whole breadth and whole Diagonal Line is too large for your Compaſſes, then the half breadth and half Dia<g ref="char:EOLhyphen"/>gonal will do as well, (taking the half length of the Hip alſo between your Compaſſes, and on the Scale alſo) and that ſhall ſet the Scales to the ſame Angle as before.</p>
+               </div>
+            </div>
+            <div n="15" type="application">
+               <head>Uſe XV.</head>
+               <head>To find the Lengths and Angles of the Rafters and Hips, or Sleepers, in Bevelling Frames at any Pitch.</head>
+               <p n="1">1. For the length of the Rafter, ſet the 30 Scales ſquare, then count the half length of the bevel-end on one Leg, (be<g ref="char:EOLhyphen"/>ing always more there than the half breadth) and the Per<g ref="char:EOLhyphen"/>pendicular reſolved on, on the other Leg; Then the Parallel diſtance between, meaſured laterally, ſhall be the length of <note place="margin">Rafter.</note> the Rafter required, and a Ruler laid to the two Points of the Compaſſes ſo ſet on the 30 Scales, and a Bevel ſet, as before in Square Frames is ſhewed, ſhall give the Angles at head and foot required.</p>
+               <p n="2">2. For the Hips length, count the Rafters length on one Leg, and the half breadth of the bevel-end of the Houſe, more by half the number of inches bevelling on the other Leg, and take the parallel diſtance between, and Meaſure it Laterally <note place="margin">Hips.</note> from the Center, and it ſhall be the length of the longeſt Hip-Rafter. And for the ſhorteſt Hip count leſs than the Bevel-end, by half the number of Inches bevelling, and that ſhall be the ſhort Hip required.</p>
+               <p n="3">3. The Inches, or Feet and Inches of Bevelling being given, to find how much one corner is under, and the other over 90 Degrees (or juſt Square) open the 30 Scales, and take the breadth of the Houſe over at the neereſt diſtance, between <note place="margin">Angle of the Frame.</note>
+                  <pb n="15" facs="tcp:32833:10"/>
+your Compaſſes, from the 30 Scale from the Center lateral<g ref="char:EOLhyphen"/>ly, and make it a parallel in 15 and 15 for 60 of the Chords.</p>
+               <p>Then take the Feet and Inches Bevelling from the ſame 30 Scale laterally, and carry it parallelly till it ſtay in like parts; then juſt againſt it on the Degrees or Tangents are the De<g ref="char:EOLhyphen"/>grees and Minutes required, that one corner is more, and the other leſs than 90 Degrees.</p>
+               <p n="4">4. <hi>To find the Diagonal Line.</hi>
+               </p>
+               <p>Take the diſtance in the Chords to the Degrees above, or under 90 laſt found, from the Center Laterally, and make it a Parallel in 15 and 15, and then the 30 Scales are ſet to the Angle; the end is over, or under 90 Degrees: Then count <note place="margin">Diagonal Lines.</note> the whole or half Bevel end on both Legs, and the Parallel diſtance between ſhall ſhew the length of the whole, or half Diagonal Line meaſured from the Center.</p>
+               <p>Note, That when the Rule ſtands at the Blunt Angle, it gives the longeſt Diagonal Line, and when it ſtands at the Sharp Angle, it gives the ſhorteſt Diagonal Line.</p>
+               <p n="5">5. <hi>By the Diagonal Line and Perpendicular to find the Hips Length, and the Angles at Head and Foot of the Hip or Sleeper.</hi>
+               </p>
+               <p>Count the half Diagonal on one Leg, and the Perpen<g ref="char:EOLhyphen"/>dicular <note place="margin">Hips.</note> height on the other Leg, (the 30 Scales being ſquare) then the Parallel diſtance between, ſhall be the length of the Hip required, being longer or ſhorter, as the Diagonal Line is.</p>
+               <p>Alſo a Rule laid to the two Points of the Compaſſes mea<g ref="char:EOLhyphen"/>ſuring the Parallel Extent, and a Bevel laid to the Rule, and <note place="margin">Angles of the Hips.</note> the two 30 Scales, at each end, gives the Angles at head and foot of Hips required.</p>
+               <p>
+                  <hi>To find the Neereſt Diſtance from the Corner of the Rombus to the Oppoſite Hip ſet up in his true place.</hi>
+               </p>
+               <p n="6">6. Count the length of the Hip on one 30 Scale, and take
+<pb facs="tcp:32833:11"/>
+that diſtance alſo between your Compaſſes Laterally, count alſo on the other 30 Scale the length of the Bevel end, and there ſet one point of the Compaſſes, and open or ſhut the <note place="margin">Neereſt Di<g ref="char:EOLhyphen"/>ſtance.</note> Rule, till the other point falls in the length of the Hip-Rafter firſt counted (then one 30 Scale Repreſents the Raiſing Piece, and the other the Hip ſet up) then the neereſt diſtance from the bredth of the Frame over, at the Bevel end and more, or leſs, by half the Feet and Inches Bevelling, to the Com<g ref="char:EOLhyphen"/>mon Line of the other 30 Scale, being meaſured from the Center ſhall be the neereſt diſtance required.</p>
+               <p>
+                  <hi>To find the Angle on the Outſide of the Hip.</hi>
+               </p>
+               <p n="7">7. To find the Out-ſide Angle of the longeſt Hip, Take the ſhorteſt Diagonal Line between your Compaſſes, and make it a Parallel in the neereſt diſtance belonging to that Hip, and the 30 Scales will be ſet to the Angle required, and to meaſure it take Parallel 15 and 15, and meaſure it Laterally from the Center in the Chords; and you ſhall have the meaſure <note place="margin">Outſide An<g ref="char:EOLhyphen"/>gle.</note> of the Angle required.</p>
+               <p>
+                  <hi>Example;</hi> In a Houſe of 20 foot over at neareſt di<g ref="char:EOLhyphen"/>ſtance, and 4 foot or 48 inches Bevelling out of Square. See fig. II.</p>
+               <p>Let A B C D repreſent a Frame 20 foot over, and 4 foot Bevelling, the Bevel-end B C is longer than right over by 5 inches; for if you ſet the Rule ſquare, and take the parallel extent from 20 the meaſure over, to 4 foot the meaſure of Bevelling, and meaſure it Laterally, you ſhall find it reach, Laterally to 20 foot and 5 inches, the true length of the Bevel end.</p>
+               <p>The Bevel-end being 20. 5 inches the Perpendicular re<g ref="char:EOLhyphen"/>ſolved on, which at true Pitch ought to be about 11 foot 5 inches, Fere. Then firſt for the Rafters length.</p>
+               <p n="1">1. Set the 30 Scales ſquare, and ſet one Point in 11. 5 the Perpendicular, and the other point in 10 foot 2½ the half Be<g ref="char:EOLhyphen"/>vel-end; (and to the Compaſs-Points, lay a Rule, and to the Rule and the 30 Scales at both ends ſet a Bevel, and one ſhall <note place="margin">Rafters Length and Angles.</note> be the Angle at foot, the other the Angle at the top of the Rafter: And the one Angle will be 42 Degrees for the foot, and the other 48 for the top of the Rafters) and the meaſure
+<pb facs="tcp:32833:11"/>
+between the Compaſſes meaſured from the Center ſhall be 15 foot 4 inches, the Rafters length required.</p>
+               <p>As by Inſpection on the 40 and 30 Scales you may ſee.</p>
+               <p n="2">2. For the longeſt Hip ſet one Point in 12 foot 2 inches and ½ more by two foot, then 10 foot 2 in. ½ the half Bevel-end, and the other Point in 15. 4 the Rafters length, and meaſure it from the Center, it gives 19 foot 6 inches the longeſt Hip.</p>
+               <p>Again, Set one Point in 8 foot 2 inches ½ 2 foot ſhorter than the half Bevel-end, by 2 foot the half of 4 foot the Be<g ref="char:EOLhyphen"/>velling, <note place="margin">Hips Length.</note> and the other Point in 15 foot the Rafters length, and meaſure it from the Center, it gives 17 foot 4 inches the length of the ſhorteſt Hip.</p>
+               <p n="3">3. For the length of both Diagonal Lines, ſet the Scales of 30 to the Angle of the Frame at each corner, and the meaſure from the half, or the whole Bevel-end taken Paral<g ref="char:EOLhyphen"/>lelly, ſhall be the length required of the half or whole Dia<g ref="char:EOLhyphen"/>gonal Line, according as you take the whole or half Bevel<g ref="char:EOLhyphen"/>end.</p>
+               <p>As here in our Example the Blunt end is 101 gr. 30 min. <note place="margin">Diagonal Lines.</note> or 11 30 more then 90 gr. therefore take the diſtance from the Center to 101. 30. on the Chords, and make it a Parallel in (15 and 15) the Chord of 60, then is the 30 Scales ſet to the Angle of the Blunt-end of the frame, and the Parallel diſtance between 20-5 the whole Bevel-end gives 31 foot 6 inches, the whole Diagonal Line, B L, or the Parallel be<g ref="char:EOLhyphen"/>tween 10-2½ give 15-09 inches B E the half.</p>
+               <p>Again, The ſharp end is 78. 30 11 deg. 30 leſs then 90, then the Lateral Chord of 78. 30. made a Parallel Chord of 60 (at 15): then is the Rule ſet to the ſharp end of the Frame, for the ſhorter Diagonal Line. And the Parallel di<g ref="char:EOLhyphen"/>ſtance between 10-2½ gives 12 foot 11. the half, or 25 foot 10 inches the whole Diagonal Line C F, whoſe half is C E the ſhorteſt whole and half Diagonal Lines.</p>
+               <p n="4">4. For the Hips Length, and Angles at Foot and Head.</p>
+               <p>Set the 30 Scales Square, and count the ſhorteſt half Dia<g ref="char:EOLhyphen"/>gonal 12 foot 11 on one Leg, and the Perpendicular 11 foot 5 on the other Leg, then the Compaſs Points ſo ſet, lay a Rule <note place="margin">Hips length.</note> and take the Bevel at both ends, and it ſhall give the two An<g ref="char:EOLhyphen"/>gles at head and foot of the ſhorteſt Hip, and the ſame diſtance
+<pb facs="tcp:32833:12"/>
+of the Compaſs Points ſhall be 17 foot 4 inches <hi>fere,</hi> the Hip <note place="margin">Hips length and Angles.</note> length, as before, and the Angle at the top 48. 30 and at foot 41<g ref="char:punc">▪</g> 30 his Complement.</p>
+               <p>Again, Set one point in 15 foot 10 the longeſt half Diagonal, and the other point in 11 foot 5 inches the Perpendicular, and lay a Rule to them, and ſet the Bevel to both ends, and you ſhall find 54 gr. the Angle at the top, and 36 the Angle at foot, and the diſtance between the Compaſſes laid from the Center, gives 19 foot 6 inches the longeſt Hip.</p>
+               <p n="5">5. For the Out-ſide Angles of both Hips, the longeſt firſt.</p>
+               <p>Take 19 6 between your Compaſſes the Hips length from the 30 Scale: Set one point in 20 foot 5 the Bevel-end, and cloſe the Rule till the other Point touches 19. 6 the Hips length.</p>
+               <p>Then take the neereſt diſtance from 18 foot 5 (2 foot leſs <note place="margin">Outſide Angle of long Hip.</note> than 20 foot 5 the breadth of the Bevel-end of the frame), to the other 30 Scale, and it is the neereſt diſtance from the Point of the <hi>Rombus</hi> A to the Hip B G ſetup, 15 foot 9 inches.</p>
+               <p>Then take out 25 foot 10 the ſhorteſt Diagonal, and make it a Parallel in 15. 9 the neereſt diſtance, and then the 30 Scales are ſet to the Angle required; for the Outſide of the Long Hip, being 110 degrees for Parallel 15 meaſured lateral<g ref="char:EOLhyphen"/>ly on the Chord, gives 110-0.</p>
+               <p n="6">6. For the Out-ſide Angle of the Shorteſt Hip.</p>
+               <p>Take 17 foot 4 inches between your Compaſſes, and ſet one Point in 20 foot 5 the Bevel end, and open or ſhut the Rule till the other Point reaches 17 4 on the other 30 Scale. Then <note place="margin">Outſide Angle of ſhort Hip.</note> the neereſt diſtance from 22 foot, 2 foot more than the breadth of the Bevel end of the Frame to the Common Line on the other 30 Scale, and that ſhall be the neereſt diſtance from L to C G the ſhorteſt Hip ſet up, which is 18 foot 9 inches.</p>
+               <p>Then take out 15 foot 10 inches the half greater Diagonal Line, (becauſe 31 foot 8 inches is more than the Scale of 30) and make it a Parallel in 9. 00 the half of 18 foot, and the 30 Scales are ſet to the Angle required, <hi>viz.</hi> 122 degrees; for if you take out parallel 15, and meaſure it in the Chords Laterally, it ſhall be 122 the Angle required.</p>
+               <figure>
+                  <pb facs="tcp:32833:13"/>
+                  <head>
+                     <hi>Fig.</hi> III</head>
+               </figure>
+            </div>
+            <div n="16" type="application">
+               <head>Uſe XVI.</head>
+               <head>
+                  <hi>To find the Rafters, Hips and Angles in Bevel and Taper Frames, being broader at one End that the other.</hi> See <hi>Fig.</hi> III.</head>
+               <p>Firſt, when the Frame is broader at one end than the other, then the middle breadth is to be the guide for the Rafters length, and the Perpendicular to be equal to the middle Rafters perpendicular on both ends; though one pair of Raf<g ref="char:EOLhyphen"/>ters is longer than another, and the Roof in winding thereby: Which winding may many times be remedied by ſome conve<g ref="char:EOLhyphen"/>nient artifice or other, a, the ingenious workman will ſoon perceive. As thus in brief:</p>
+               <p>Let A B C D repreſent the Frame of a Houſe Bevelling at both ends, and broader by 2 foot at one end than the other; as here in the Bevelling figure, being 20 foot on one ſide, and 24 foot on the other ſide at one Bevel-end 10 foot 4 inches, and at the other end 8 foot 1 inch ½ but at the neareſt diſtance over, only 10 foot, and 8 foot.</p>
+               <p>Firſt, for your more apparent fatisfaction, draw the true form of the Frame by as large a Scale as you conveniently can, with the Sides and Angles as exact as you can, as A B C D; then draw the middle Line E F quite through the length, and G H through the breadth of the Frame Perpendicular one to the other, then meaſure G H as ſuppoſe 9 foot, then lay off the half of G H from H to I and K, then take out ¾ of G H, and lay it from K and I to L 6 foot 9 inches for a pair of middling Rafters for this Taper Houſe, L G being the common Perpendicular at the middle and both ends of the Roof, 5 foot o inch ⅝ of an inch.</p>
+               <p>And for the Principal Rafters, or other Rafters open the <note place="margin">To find the length of the very Principal (or ſingle) Rafter in a Taper Frame.</note> 30 Scale ſquare, and then count the Perpendicular 5. 0. ⅝ on one Leg, and half the diſtance between the Rafter-feet or half breadth of the Frame at that place on the other Leg; and the Parallel diſtance between ſhall be the true length of the Raf<g ref="char:EOLhyphen"/>ter required.</p>
+               <p>
+                  <pb facs="tcp:32833:14"/>
+Then for the Hips length, firſt, Make A M and B M equal to A E or B E at one end, and make C N and D N equal to D F or C F and draw the lines M M and N N at both ends, alſo make A b and B b equal to A B, and C a and D a equal to C D, and draw the Diagonal Lines A S and B S, and C O, and D O, at each end extended, and ſet down the meaſures of them.</p>
+               <p>Theſe Lines being drawn you have the half Diagonal Lines A S and B S, and C O, and D O, and may meaſure them by your Scale, to find their Lengths, or ſet the Rule to the An<g ref="char:EOLhyphen"/>gles A E S and B E S, find them by the 30 Scale; alſo you have the Bevel ends of the frame, and the neereſt diſtance over from ſide to ſide of the frame.</p>
+               <p>
+                  <hi>Then for the Hips Length and Angles thus,</hi>
+               </p>
+               <p>Set the 30 Scales ſquare, and count the perpendicular height L G on one Leg 5 - 0 - ⅝ and each half Diagonal Line, &amp;c. one after another on the other Leg, and the Pa<g ref="char:EOLhyphen"/>rallel diſtance between ſhall be the true length of the ſeveral Hips required, Example,</p>
+               <p>The Parallel diſtance between 5 foot - 0 - Inches ⅝ the common perpendicular counted on one 30 Scale, and 8 foot 1 Inch, the longeſt Diagonal line A S counted on the other 30 Scale ſhall give 9 foot 6 Inches for the Length of one Hip A P Laterally.</p>
+               <p>And the Parallel diſtance between 5 - 0 - ⅝ the com<g ref="char:EOLhyphen"/>mon perpendicular, and 6 foot 6 Inches the other Dia<g ref="char:EOLhyphen"/>gonal line B S ſhall give the Lateral meaſure of 8 foot 3 Inches, the length of B P, the other Hip-rafter for the broad<g ref="char:EOLhyphen"/>eſt end of the frame A B.</p>
+               <p>Again, the parallel diſtance between 5 - 0 - ⅝ the com<g ref="char:EOLhyphen"/>mon perpendicular, and 6 foot 4 Inches the greater Diago<g ref="char:EOLhyphen"/>nal Line C O at the narroweſt end ſhall give 8 foot 1 Inch for the Hip-Rafter C P. And the parallel diſtance between 5 - 0 - ⅝ the prependicular and 5 foot - 0 - Inch. - 0 the Leſ<g ref="char:EOLhyphen"/>ſer Diagonal Line D O ſhall give 7 foot 2 Inches for the Hips Length D P to ſtand over the Diagonal Line D O.</p>
+               <p>Note alſo that if to the Compaſſe points ſtanding pa<g ref="char:EOLhyphen"/>rallelly you lay a Rule, and to the Rule (ſo laid) and
+<pb facs="tcp:32833:14"/>
+the 30 Scales at each end a Bevel, and ſet it according to the Rule and 30 Scales, it ſhall give the true Angle of the Hips at the Raiſing-piece &amp; King-Poſt, which 8 Angles in theſe 4 Hips are expreſt by the Lines and Letters in the Scheam thus. P A S and P B S, P D O and P C O the 4 Angles at the Rai<g ref="char:EOLhyphen"/>ſing Piece. And S P A and S P B O P C and O P D, the 4 Angles at the King-Poſt.</p>
+               <p>Whoſe length you may prove by Mr. <hi>Pope</hi>'s excellent way, making S P and O P equal to L G on the extended Diagonal Line, and drawing the Lines A P, B P, C P, D P for the 4 Hip-Rafters length required.</p>
+               <p>Or for more proof thus alſo by the Rule, as before in Square Roofs.</p>
+               <p>Set the 30 Scales Square, and take the Parallel Extent, from 7 foot 2 - ¾ - the Rafters length at the broader end, on one 30 Scale, to 6 foot 2 inches more, then ½ the Bevel-end by 1 foot the half quantity of Bevelling, and it ſhall give 9 foot 6 inches for the Hip A P, and from 7 - 2 - ¾ - to 4 - 2, one foot leſs than the half Bevel-end, to 8 foot ¾ the Hip B P. Alſo the Par. Extent from 6 foot 5 - ½ the Rafters length at the leſſer end, to 5. foot 0 - ¾ one foot more than 4. 0 - ¾ the half little Bevel-end, ſhall give 8 - 1 - ½ for the Hip P C. And the Ex<g ref="char:EOLhyphen"/>tent, from 6 - 5 - 4/8 the Rafters length, to 3 - 0 ¾ 1 foot leſs than the half Bevel-end, gives 7 - 1 - ½ the Hip D P, as be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>Note, That by the working theſe 3 ways, you may be ſure to prevent any miſtakes that may happen in working one way only.</p>
+               <p>Laſtly, For the Angles on the out-ſide or backs of the Hips.</p>
+               <p>Take every ſeveral Hips length Laterally between your Compaſſes, and ſet one Point in the length of the Bevel-end, (or rather in a mean between A B the Bevel-end, and M M at the greater end, or C D and N N at the leſſer end) and open or ſhut the 30 Scales till the other Point falls on the Hips length that you work for, then for the longer Hip count more, and for the ſhorter Hip leſs, by half the inches Bevel<g ref="char:EOLhyphen"/>ling, then the whole breadth over, at the end, and take the Parallel neereſt diſtance from thence to the 30 Scale for a neereſt diſtance, which neereſt diſtance you muſt keep.</p>
+               <p>Then take the whole Diagonal Line Perpendicular to the
+<pb facs="tcp:32833:15"/>
+Hip, wrought for <hi>(viz.</hi> the ſhorteſt Diagonal Line for the longeſt Hip at each end) between your Compaſſes, and make it a Parallel in the neereſt diſtance laſt found, and then the 30 Scales are ſet to the Angle of the back of the Hip required.</p>
+               <p>
+                  <hi>Example in this Figure for the longeſt Hip.</hi>
+               </p>
+               <p>Take 9 foot 6 inches, the Hips length A P between your Compaſſes, and ſet one Point in 10 foot one inch (a mean between A B 10 foot 4, and M M 9-10½) and open or ſhut the Rule, till the other point ſtands in 9 foot 6, the Hips length firſt taken. Then the neereſt diſtance, from 9 foot 4 inches, one foot leſs than 10 f. 4 inc. the Bevel-end diſtance over, to the other 30 Scale ſhall give 7-10 a neereſt diſtance from the Point b to A P the Hip raiſed over A S the Diagonal.</p>
+               <p>Then the Lateral Extent B b of the whole Diagonal Line 12 f. 7 inc. being made a Parallel in 7-10 the neereſt diſtance laſt found, ſhall ſet the 30 Scales to the Angle at R the back of the Hip required meaſured by taking Parallel 30, and mea<g ref="char:EOLhyphen"/>ſuring it Laterally on the Chords it is about 108 Degrees.</p>
+               <p>Secondly, Take 8 foot 4 inches, the other Hips length be<g ref="char:EOLhyphen"/>tween your Compaſſes, and ſetting one Point in 10 foot one inch as before, open or ſhat the Rule till the other Point falls in 8. 4. the Hips length.</p>
+               <p>Then the neereſt diſtance from 11 foot 4 inches, one foot more than 10 foot 4 inches the diſtance of the Bevel-end to the Common Line of the other 30 Scale ſhall be when meaſured Laterally from the Center 9 foot <hi>fere,</hi> for a neereſt diſtance.</p>
+               <p>Then 15 foot 8 inches the longer Diagonal Line being made a Parallel in 9 foot <hi>fere,</hi> the neereſt diſtance laſt found, ſets the 30 Scales to 121 Degrees the Angle required, the back of the ſhorter Hip required.</p>
+               <p>The ſame work ſerves for the other end, being neer the ſame Angles: Which you may prove by Mr. <hi>Will. Pope</hi>'s ex<g ref="char:EOLhyphen"/>cellent way thus: find the middle between S and A, or S and B at Q, then the neereſt diſtance from Q to B P or A P neer lay to R, and draw the Lines R E, R M for the An<g ref="char:EOLhyphen"/>gles at R the back of the Hips required.</p>
+               <p>Moreover if you raiſe 4 Perpendiculars cutting the Points O and S, the 2 places of the King-poſts being Perpendicu<g ref="char:EOLhyphen"/>lar to the raiſing Pieces A C, and B D, as the 4 Prick<g ref="char:EOLhyphen"/>lines
+<pb n="23" facs="tcp:32833:15"/>
+♉ S, ♍ S, ♌ O, and ♊ O do ſhew, and lay the length of each Hip from his proper corner A B C D as A P from A to ♈ and ♍. B P from B to ♈ and ♉, D P from D to ♊ and ♋, C P from C to ♌ and ♋, then draw lines from point to point, as in the Figure.</p>
+               <p>Then ♍ ♌ and ♉ ♊ are the two Ridges when turned right over O S, and C ♋ D is the leaſt Hip, and A ♉ B is the greater Hip, as Mr. <hi>Pope</hi> hath well ſhewed. Thus much for Hipt Roofs.</p>
+            </div>
+            <div n="17" type="application">
+               <head>Uſe XVII.</head>
+               <head>To find the Length and Angles of every Principal Particular Rafter in Frames broader at one end than the other.</head>
+               <p>The Perpendicular, as before was hinted, is to be the ſame all over the Roof. Therefore open the Rule ſquare, and take from the Perpendicular on one Leg, to the half breadth of the Frame on the other Leg, meaſure it from the Center, and that is the length required. For the Angles lay a Rule to the compaſs Points, and ſet a Bevel, as before is ſhewed, and you have the Angles at the Raiſing-Piece, (and Ridge of the Houſe), to cut the Rafters feet by.</p>
+               <p>The ſame Rule ſerves to draw out a pair of well Stairs, to give Hypothenuſaes, or ſtrings, at any particular height and breadth; for the 30 Scales ſet Square, and the Perpendicular height counted on one Leg, and the breadth on the other Leg, the meaſure between is always the Hypothenuſa, or ſtring in flying Stairs, as may plainly appear.</p>
+            </div>
+            <div n="18" type="application">
+               <head>Uſe XVIII.</head>
+               <head>To find the Length and Angles of Collar Beams in any Roof.</head>
+               <p>Take the whole breadth of the Frame between your Com<g ref="char:EOLhyphen"/>paſſes, and ſet one point in the length of the Rafter on one Leg, and the other point in the ſame place on the other Leg: then the two Legs repreſent the two Principal Rafters, and a Rule laid to the Compaſs Points repreſents the Raiſing piece; then at any height that you pleaſe above the Raiſing-piece, apply a Rule parallel to it, and the meaſure between laid from the center, gives the length, (remembring to add wood
+<pb n="24" facs="tcp:32833:16"/>
+for the tenons) and a Bevel laid to the 30 Scale and Rule, gives the true Angle to cut it by, (where the Timbers be ſquare.)</p>
+            </div>
+            <div n="19" type="application">
+               <head>Uſe XIX.</head>
+               <head>To find the Lengths, and Angles, of Rafters, and Purloyns in Bevel Frames.</head>
+               <p>The Length of the Rafters is ſhewed before, to find it by the half breadth of the Square or Bevel-end, and the per<g ref="char:EOLhyphen"/>pendicular anſwerable to that Roof, (as afterward in the Example.) And the Angle of the Foot, and outſides or backs of the Bevel-end Rafters, and the upright of the Gable end, muſt be to an Angle leſs and more than 90 degrees by the Angle at the Corner of the frame where that Rafter is to ſtand, being more at the ſharp Angle and leſs at the blunt Angle, as in figure IIII you may ſee; the true quantity of which Angle is thus found by the Rule.</p>
+               <p>Take the Length of the Rafter for the Bevel-end in Feet and Inches, and make it a parallel in 15, then half the quantity of Feet and Inches Bevelling, taken from the ſame Scale and carried parallelly till it ſtay in like parts, ſhall ſhew right againſt it in the Tangents the Degrees and minutes required.</p>
+               <p>And this is the Angle that the blunt corner is to be laid in Legement more than a ſquare, and the ſharp Angle leſs than a ſquare or 90 degrees, both out of Level, and out of ſquare alſo, when you tumble or ſtripe in, the tenons of the pur<g ref="char:EOLhyphen"/>loins, the thing deſired.</p>
+               <figure>
+                  <pb facs="tcp:32833:16"/>
+                  <head>
+                     <hi>Fig.</hi> III</head>
+               </figure>
+               <p>Let A B repreſent the Bevel-end of a frame, being out of ſquare from the Line A C 6 Foot as the line C B ſheweth, then if A C be 20 foot, A B will be 20 foot 10 Inches. Then draw E L the middle Line of the frame, and G M and H K, the Lines at three quarter of the breadth of the frame, then take E D the half Bevel and lay it from G to F and from H to I, and draw the Line; A F and B I, for the out<g ref="char:EOLhyphen"/>ſide Lines of the two Bevel-end Rafters: and the two other Lines parallel to them, according to the breadth or ſcantling of your Bevel-end Rafters, as here in the figure 8 Inches broad. Thus the Lines A F, and B I, repreſent the
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:32833:17"/>
+                  <pb n="25" facs="tcp:32833:17"/>
+two end Rafters, laid in Legement to fit in the purloins, as for their lying out of ſquare from the Raiſing pieces. And to the ſame Angle they are to be laid out at Level, that the cutting of the purloin ends may fit the Rafter ſides, when erected in their places, according as the ends F and I of the Bevel-end Rafters are, according to the Angles A F G and A F M the one being 11 degrees and 20 minutes under, and the other 11, 20 above 90 degrees.</p>
+               <p>Alſo, Note that if P K, and O M do repreſent a pair of ſquare Rafters, at any intended diſtance from A, then T S and R Q will give the true Length of the purloins fit for thoſe places, R Q being the ſhorteſt purloin and T S the longeſt purloin.</p>
+               <p>To find by the Rule only how long the purloin muſt be on the outſide more or leſs than the diſtance on the Raiſing pieces, where you intend the two ſquare Rafter feet ſhall ſtand, do thus: ſet the 30 Scales to the ſame Angle that the Bevel-end Rafters lie out of ſquare, when they lie in Lege<g ref="char:EOLhyphen"/>ment, to frame which here is to 11 degrees and 20 minutes.</p>
+               <p>Then count from the Center the quantity of Feet and In<g ref="char:EOLhyphen"/>ches you intend to make the mortiſe holes from the Rafter foot, in the Rafters, for the tenons of your purloins; and take from thence to the neereſt diſtance to the other Line, and that ſhall ſhew the quantity that the one purloin is to be longer, and the other ſhorter, than the diſtance between the Rafter-feet on the Raiſing pieces, Example thus,</p>
+               <p>Set the 30 Scales to the Angle G A F, then count A S the place for the mortiſe hole from A on the Rafter, and take the neereſt diſtance from thence to the other 30 Scale that ſhall give S V, the quantity how much T S is ſhorter than A O, and how much R Q is longer th<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n P B.</p>
+               <p>Note, that if you count 3 quarters of 20 foot 10 Inches, being the length of the Bevel-end, that then you will make the Rafters too long by 4 Inches and a half, as in the figure you may ſee: therefore the ſureſt way to find the Rafters length is to ſet the Scales to a ſquare, and then to take the parallel extent from the common perpendicular, to the ½ breadth between the place for the Rafter feet, on the Raiſing piece: So that the length of the Rafters for the Bevel-end at true pitch, is A F 15 foot 3 Inches, and not A W 15-7-½,
+<pb facs="tcp:32833:18"/>
+which is juſt 3 quarters of A B the Bevel-end over which the two Rafters are to ſtand. For then the top of the Be<g ref="char:EOLhyphen"/>vel-end Rafters would be too high for the top of the ſquare Rafters being cut Juſt 15 foot, three quarters of 20 foot the breadth of the frame.</p>
+            </div>
+            <div n="20" type="application">
+               <head>Uſe XX.</head>
+               <head>The uſe of the Scales to lay down or meaſure out on Paper, or Board, the Members and parts of the fine Columns, and their Or<g ref="char:EOLhyphen"/>naments, with their names and meaſures, digeſted into a Table, for the more eaſe and uſe of work-men.</head>
+               <p>For the drawing of the fine Columns and their Ornaments is largely before treated of in the former part, by models minutes and quarters, and conſidering the harmony between it and our Scales to 30, that are parted into 12 parts, ſo that when every figure or foot, on the Scales to 30 repreſent a model, then every Inch is 5 Minutes; and for ſmall paper draughts, that way of counting is neer enough, but when you uſe it for a bigger draught, that the whole ſcale of 30 may re<g ref="char:EOLhyphen"/>preſent 3 models only: then every figure will repreſent 6 minutes, and the 12 Inches between are half minutes: but in very great work as in Temples, or Caſtles, then the whole foot or ſcale to 30 may repreſent half of one model only, and then every figure or foot is a minute, and every Inch or ſmall diviſion is the 12<hi rend="sup">th</hi> part of a minute; for I count it to be a large Column, whoſe Diameter at the baſe (which is a model) is above 3 foot, and by this manner of computation which is natural to moſt ſcales, the ſcales to 30 may be ren<g ref="char:EOLhyphen"/>dred convenient for ſmall, or moderate, or large uſes, as in the following Examples may ſomewhat appear,</p>
+               <p>In Reading of which you muſt have recourſe to the former figures whoſe members are marked with 1 2 3 4 5 6 7 8 9 10 and which figures direct you to the names in every of the columns which I found to be wanting in the former part, ſo that the method here uſed is thus,</p>
+               <p n="1">1. The firſt Column in the Table is 1 2 3 4 5 6 7 8 10 11 12, &amp;c. anſwerable to the figures on the 6<hi rend="sup">th</hi> figure, in our preſent Example, which will ſtreight way guide you to the meaning of the names or termes in the Table by comparing
+<pb facs="tcp:32833:18"/>
+it and the figure together, whereby you may readily find every part or member and it's proper name.</p>
+               <p n="2">2. The ſecond Column is the names of the part or Member in the groſs and particular alſo, as the Pediſtal, the Baſe, the Shaft, the Capital, the Architrave Frieze and the Corniſh, are the names in groſs; the other are the names of the members in particular.</p>
+               <p n="3">3. The third Column in the table is the ſeveral meaſures of the particular members, in Models, Minutes, and quarters, as in the figures, though more eaſily to be ſeen than in the figures, becauſe of the ſtraightneſs of the Room there,</p>
+               <p n="4">4. The fourth Column in the Table is the meaſure of every particular part and member from the pediſtal baſe or bot<g ref="char:EOLhyphen"/>tom to the top of the Corniſh, being uſeful in ſmall draughts where the whole pillar is expreſt.</p>
+               <p n="5">5. The fifth Column in the Table is the ſeveral meaſures of every particular member of each groſs part, being uſeful when you draw large draughts of any work or part thereof.</p>
+               <p n="6">6. The ſixth Column in the Table is the meaſure of the projecture of every particular part from the middle line of the Column (or from the ſmalleſt or moſt inward part of the pillar the reſt being ſubſtracted) but I Judge the middle line to be the beſt Epocha to begin the account of projecture for the conveniency of the Compaſſes: and this Table of proje<g ref="char:EOLhyphen"/>ctures as all the reſt is to models minutes and quarters; as by tryal you may ſee at one view what each groſs part and every particular part is.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="conclusion">
+            <pb facs="tcp:32833:19"/>
+            <head>The Names and Number of the Members of the <hi>Tuſcan</hi> Column in Height and Projecture.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>A Table for the <hi>Tuſcan</hi> Order</cell>
+                     <cell cols="6">Each part from the baſe</cell>
+                     <cell cols="3">Each groſ part alone</cell>
+                     <cell cols="3">
+                        <gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he proj. <gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r. middle.</cell>
+                  </row>
+                  <row>
+                     <cell>Num.</cell>
+                     <cell> </cell>
+                     <cell>Names of the parts and members.</cell>
+                     <cell>nod.</cell>
+                     <cell>min.</cell>
+                     <cell>q.</cell>
+                     <cell>
+                        <hi>M.</hi>
+                     </cell>
+                     <cell>
+                        <hi>m.</hi>
+                     </cell>
+                     <cell>
+                        <hi>q</hi>
+                     </cell>
+                     <cell>
+                        <hi>M.</hi>
+                     </cell>
+                     <cell>
+                        <hi>m.</hi>
+                     </cell>
+                     <cell>
+                        <hi>q.</hi>
+                     </cell>
+                     <cell>
+                        <hi>M.</hi>
+                     </cell>
+                     <cell>
+                        <hi>m.</hi>
+                     </cell>
+                     <cell>
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell rows="6">
+                        <hi>Pediſtal.</hi>
+                     </cell>
+                     <cell>
+                        <hi>The lower Face<gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, or Plint, of the Pediſtal</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>42</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>The Pediſtal Body, or Stilobatum</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>40</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Abacus, the Caſement, or hollow</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>35</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>35</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>41</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Tinea, the Liſt, or Square, or Rabit</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>37</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>37</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>46</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>
+                        <hi>The Architrave or Faceo</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>49</cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>49</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>47</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>The upper Liſt of the Pediſtal.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>52</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>52</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>49</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell rows="3">
+                        <hi>Baſe.</hi>
+                     </cell>
+                     <cell>
+                        <hi>The Plint, of the Baſe of the Column</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>42</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>The Thorus, or Rondell, or Breſt</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>42</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>The Liſt, or Fillet, or Spira</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>03</cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>25</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>33</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>36</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell rows="3">
+                        <hi>Shaft.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>at the Baſe</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>The Shaft or Body of a Col.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>47</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>at the Capit.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell rows="7">
+                        <hi>Cap<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ital.</hi>
+                     </cell>
+                     <cell>
+                        <hi>The Liſt</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>49</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>The Rondel or Aſtragal</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>52</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>
+                        <hi>The Neck or Freize</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>01</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>13</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>The Liſt</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>The Rondell, or Bead-molding</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>26</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>The Echinus, or Half-round</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>7</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>25</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>
+                        <hi>The Plint of the Captital.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>35</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>31</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell rows="15">
+                        <hi>Architrave, Frize and Corniſh.</hi>
+                     </cell>
+                     <cell>
+                        <hi>The firſt Faceo</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                     <cell>32</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>
+                        <hi>The ſecond Faceo</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>48</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>25</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>24</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>The Liſt or Supercilium</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>49</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>27</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>26</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>The P<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>int</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>53</cell>
+                     <cell> </cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>27</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>
+                        <hi>The Zoporus Epiſtylum or Frize</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>40</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>33</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>
+                        <hi>The Liſt or Supercilium</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>35</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>23</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>The Scimatium or little</hi> O G</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>40</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>26</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>The Supercilium or Liſt</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>41</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>
+                        <hi>The Scima or Greater</hi> O G</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>49</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                     <cell>27</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>35</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>
+                        <hi>The Liſt</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>51</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>28</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>49</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>The Corona or Crown</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell>11</cell>
+                     <cell>01</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>38</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>50</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>
+                        <hi>The Liſt</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>40</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>52</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>The upper Scim<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> or</hi> O G</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>48</cell>
+                     <cell>0</cell>
+                     <cell> </cell>
+                     <cell>56</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>The Supercilium, Liſt, Tinea, or Eybrow</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>49</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>The upper Liſt or P<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>int of the Cor<g ref="char:EOLhyphen"/>niſh for the Tuſcan Column or Order</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>52</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>02</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:32833:19"/>
+Thus I have given you an Example of the <hi>Tuscan</hi> Order of the Meaſure of every Part and Member: the like may you make, from the Figures in the Book, of all the other Orders, for your particular uſe and occaſion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <p>The ſaid Rule with all other Mathematical Inſtruments are made and ſold by <hi>John Brown,</hi> living in the <hi>Minories</hi> at the Sign of the Sun-Dial, and by <hi>Walter Henſhaw</hi> in <hi>Eaſt-Smithfield</hi> neer the Hermitage.</p>
+            <p>There is alſo to be ſold by <hi>William Fiſher</hi> at the <hi>Poſtern</hi> at <hi>Tower Hill,</hi> a very uſeful Book, Entituled, <hi>The Deſcription and Uſe of the Carpenters Rule, together with the <g ref="char:V">Ʋ</g>ſe of the Line of Numbers,</hi> commonly called Mr. <hi>Gunter</hi>'s <hi>Line.</hi> Alſo the Book of <hi>The Five Columns of Architecture</hi> by <hi>Hanc Bloom<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
